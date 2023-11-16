@@ -17,7 +17,7 @@ const Home: NextPage = () => {
       alignItems: "center",
       justifyContent: "center",
       margin: "0 auto",
-      maxWidth: "1440px",
+      maxWidth: "100%",
       backgroundColor:"#E31837",
     }}>
       {address ? (
@@ -43,8 +43,8 @@ const Home: NextPage = () => {
           flexDirection: "column",
           alignItems: "center",
           justifyContent: "center",
-          margin: "40px auto",
-          maxWidth: "100%",
+          margin: "100px auto",
+          maxWidth: "1440px",
         }}>
           <MediaRenderer
             src={contractMetadata?.image}
