@@ -43,7 +43,7 @@ const Home: NextPage = () => {
           flexDirection: "column",
           alignItems: "center",
           justifyContent: "center",
-          margin: "100px auto",
+          margin: "120px auto",
           maxWidth: "1440px",
         }}>
           <MediaRenderer
