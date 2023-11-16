@@ -44,7 +44,7 @@ const Home: NextPage = () => {
           alignItems: "center",
           justifyContent: "center",
           margin: "40px auto",
-          maxWidth: "1440px",
+          maxWidth: "100%",
         }}>
           <MediaRenderer
             src={contractMetadata?.image}
