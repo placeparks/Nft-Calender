@@ -10,7 +10,7 @@ export const Navbar = () => {
             height: "4rem",
             backgroundColor: "#018749",
             color: "white",
-            maxWidth: "1440px",
+            maxWidth: "100%",
             margin: "10px auto 0px auto",
         }}>
             <h1>NFT Calendar</h1>
